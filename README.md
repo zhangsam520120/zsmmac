@@ -25,7 +25,7 @@
 ## 📫 联系我
 
 - GitHub：[zsmmac](https://github.com/zsmmac)
-- 邮箱：你的邮箱@example.com   <!-- ← 记得改成你自己的邮箱 -->
+- 邮箱：zhangsam520120@gmail.com   <!-- ← 记得改成你自己的邮箱 -->
 
 ---
 
